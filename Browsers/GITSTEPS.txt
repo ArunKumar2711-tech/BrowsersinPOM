@@ -1,0 +1,9 @@
+1. Need to create folder for cloning the project
+2. Go inside cloned folder and right click -->> Git Bash Here
+3. Copy the GITHUB repository URL and in CMD of cloned project, git clone <URL>
+4. Inside Cloned Folder, folder will be created automatically from GITHUB repository
+4. Copy the source folder (Project) and paste it in Cloned folder >> Folder from GITHUB repository
+5. In CMD, git status
+6. In CMD, git add .
+7. In CMD, git commit -m "<message>"
+8. In CMD, git push
